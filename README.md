@@ -1,3 +1,1 @@
-Doing this using blade 
-where admin can create edit delete post and user can only read post 
-admin were created from database 
+"Using Blade, the application allows the admin to create, edit, and delete posts, while regular users can only read posts. The admin users are created directly from the database
